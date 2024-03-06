@@ -2,13 +2,6 @@ import {useState,useEffect} from "react";
 import Country from "./Country";
 
 
-/*
-Object.entries(cList)
-                    .map(([listCode, { name }]) => ( 
-                    <p key={listCode}>{name.common}<button>info</button></p>
-                    ))
-*/
-
 const Filter = ({cList}) => {
 
     const [value, setValue] = useState('')
