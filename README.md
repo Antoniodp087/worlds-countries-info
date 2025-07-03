@@ -172,5 +172,3 @@ export const fetchCountryByCode = (code) =>
 MIT © [Antoniodp087](https://github.com/Antoniodp087)
 
 ---
-
-*Documento generato automaticamente per aiutarti a iniziare.* Sentiti libero di migliorarlo!
